@@ -1,10 +1,16 @@
-
-<h1>Book List!</h1>
-<div class="book-list">
-  <ul>
-    <li *ngFor="let book of books">
-      <p>Book title : {{ book.title }}</p>
-      <p>Book auther : {{ book.auther }}</p>
-    </li>
-  </ul>
+<div class="container">
+  <h1>Book List!</h1>
+  <div class="book-list">
+    <ul>
+      <li
+        *ngFor="let book of books; let i = index"
+        [style.animation-delay.s]="i * 0.1"
+      >
+        <div class="book-card">
+          <p class="book-title">{{ book.title }}</p>
+          <p class="book-author">by : {{ book.author }}</p>
+        </div>
+      </li>
+    </ul>
+  </div>
 </div>
