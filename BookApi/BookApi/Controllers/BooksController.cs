@@ -11,7 +11,7 @@ namespace BookApi.Controllers
     {
         private Book[] _books = new Book[]
         {
-            new Book{ Id=1, Author="Sammy kenzo",Title="The Power of hacking"},
+            new Book{ Id=1, Author="Sam kenzo",Title="The Power of hacking"},
             new Book{ Id=2, Author="Ken kenzo",Title="The Power wining women"},
             new Book{ Id=3, Author="Diana kenzo",Title="The Power wining men"}
         };
