@@ -11,11 +11,13 @@ namespace BookApi.Controllers
     {
         private Book[] _books = new Book[]
         {
-            new Book{ Id=1, Author="Sam kenzo",Title="The Power of hacking"},
-            new Book{ Id=2, Author="Ken kenzo",Title="The Power wining women"},
-            new Book{ Id=3, Author="Diana kenzo",Title="The Power wining men"}
+            new Book{ Id=1, Author="George Orwell", Title="1984"},
+            new Book{ Id=2, Author="Harper Lee", Title="To Kill a Mockingbird"},
+            new Book{ Id=3, Author="F. Scott Fitzgerald", Title="The Great Gatsby"},
+            new Book{ Id=4, Author="J.K. Rowling", Title="Harry Potter and the Sorcerer's Stone"},
+            new Book{ Id=5, Author="J.R.R. Tolkien", Title="The Lord of the Rings"},
+            new Book{ Id=6, Author="Jane Austen", Title="Pride and Prejudice"}
         };
-
         [HttpGet]
         public ActionResult<IEnumerable<Book>> GetBooks()
         {    
