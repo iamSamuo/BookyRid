@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|e:\\projects\\cshap and angular\\bookyrid\\bookapi\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|e:\\projects\\cshap and angular\\bookyrid\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|e:\\projects\\cshap and angular\\bookyrid\\bookapi\\bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|e:\\projects\\cshap and angular\\bookyrid\\bookapi\\bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|e:\\projects\\cshap and angular\\bookyrid\\bookapi\\bookapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83177EE4-6EC0-4872-B0C7-CC339C9454D7}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 289,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApi\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T06:34:12.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BookApi\\appsettings.json",
+              "ToolTip": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\appsettings.json",
+              "RelativeToolTip": "BookApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T06:33:51.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BookApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BookApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T06:33:13.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookApi\\Program.cs",
+              "ToolTip": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\Program.cs",
+              "RelativeToolTip": "BookApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T07:11:40.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookApi\\appsettings.Development.json",
+              "ToolTip": "E:\\Projects\\CShap and Angular\\BookyRid\\BookApi\\BookApi\\appsettings.Development.json",
+              "RelativeToolTip": "BookApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-14T06:33:57.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
